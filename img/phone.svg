@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg3740"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="phone.svg">
+  <defs
+     id="defs3734">
+    <symbol
+       id="Mail">
+      <title
+         id="title3781">Mail</title>
+      <g
+         style="fill:none;stroke-width:4"
+         id="g3791">
+        <path
+           style="stroke-width:1.05833328"
+           inkscape:connector-curvature="0"
+           d="m 2.778125,14.578542 h 13.49375 V 4.6302083 H 2.778125 Z"
+           id="path3783" />
+        <path
+           style="stroke-width:1.05833328"
+           inkscape:connector-curvature="0"
+           d="M 2.9104167,4.6963542 8.73125,10.675937 c 0.4233333,0.423334 1.1641667,0.423334 1.5875,0.0033 l 5.820833,-5.9828908"
+           id="path3785" />
+        <path
+           style="stroke-width:1.05833328"
+           inkscape:connector-curvature="0"
+           d="M 3.175,14.2875 7.6464583,9.7895833"
+           id="path3787" />
+        <path
+           style="stroke-width:1.05833328"
+           inkscape:connector-curvature="0"
+           d="M 15.875,14.2875 11.403542,9.7895833"
+           id="path3789" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="112.57596"
+     inkscape:cy="-5.376938"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3737">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.357143,-45.267857)">
+    <rect
+       style="fill:#445500;fill-opacity:1;stroke-width:0.26458332"
+       id="rect9306"
+       width="7.3705354"
+       height="13.134672"
+       x="51.671875"
+       y="48.70052"
+       rx="0.77142853" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458335"
+       id="rect9308"
+       width="6.4224796"
+       height="10.716388"
+       x="52.145905"
+       y="49.229687"
+       rx="1.684343e-16" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       id="path9310"
+       cx="55.357143"
+       cy="61.062874"
+       r="0.51971728" />
+  </g>
+</svg>
